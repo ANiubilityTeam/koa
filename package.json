@@ -1,17 +1,16 @@
 {
-  "name": "koa-quickstart",
+  "name": "koa",
   "version": "1.0.0",
   "private": true,
-  "description": "Hands-on tutorial for Koa 2",
+  "description": "koa init project",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --watch src -e ts,tsx --exec ts-node src/server.ts"
   },
   "keywords": [
-    "koa",
-    "tutorial"
+    "koa"
   ],
-  "author": "mRcfps",
+  "author": "piers",
   "devDependencies": {
     "@types/jsonwebtoken": "^8.5.0",
     "@types/koa": "2.0.49",
